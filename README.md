@@ -8,15 +8,15 @@ The objective is to help analysts compare mutual fund schemes, understand SIP an
 
 ## Completed Modules
 
-| Day | Module | Key Deliverables |
+| Weeks | Module | Key Deliverables |
 |---|---|---|
-| Day 1 | Data Ingestion | Raw CSV loading, mfapi NAV fetch scripts, data quality checks |
-| Day 2 | Data Cleaning + SQLite | 10 cleaned CSVs, SQLite database, schema.sql, queries.sql, data dictionary |
-| Day 3 | EDA | EDA_Analysis notebook, 15+ charts, EDA findings |
-| Day 4 | Performance Analytics | CAGR, Sharpe, Sortino, Alpha/Beta, Drawdown, Scorecard |
-| Day 5 | Power BI Dashboard | Dashboard guide, DAX measures, screenshots, dashboard PDF |
-| Day 6 | Advanced Analytics | VaR/CVaR, rolling Sharpe, cohort analysis, SIP continuity, recommender |
-| Day 7 | Final Documentation | Final report, presentation, README, run_pipeline.py |
+| Week 1 | Data Ingestion | Raw CSV loading, mfapi NAV fetch scripts, data quality checks |
+| Week 2 | Data Cleaning + SQLite | 10 cleaned CSVs, SQLite database, schema.sql, queries.sql, data dictionary |
+| Week 3 | EDA | EDA_Analysis notebook, 15+ charts, EDA findings |
+| Week 4 | Performance Analytics | CAGR, Sharpe, Sortino, Alpha/Beta, Drawdown, Scorecard |
+| Week 5 | Power BI Dashboard | Dashboard guide, DAX measures, screenshots, dashboard PDF |
+| Week 6 | Advanced Analytics | VaR/CVaR, rolling Sharpe, cohort analysis, SIP continuity, recommender |
+| Week 7 | Final Documentation | Final report, presentation, README, run_pipeline.py |
 
 ## Dataset Summary
 - Fund master records: 40 schemes
