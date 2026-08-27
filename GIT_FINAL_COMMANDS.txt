@@ -1,0 +1,7 @@
+# Final GitHub Commands
+
+git add .
+git commit -m "Final: Complete Bluestock MF Capstone"
+git tag v1.0
+git push origin main
+git push origin v1.0
